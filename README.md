@@ -2,4 +2,4 @@
 
 ## Sumary
 
-This project is a mimic to the printf funtion.
+This project is a basic mimic of the printf funtion.
